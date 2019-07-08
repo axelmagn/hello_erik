@@ -1,3 +1,3 @@
 # hello_erik
 
-This is a greeter program that prints "Hello, Erik?"
+This is a program that prints "Hello, Erik?"
