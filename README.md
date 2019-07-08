@@ -1,3 +1,3 @@
 # hello_erik
 
-This is a program that prints "Hello, Erik?"
+This is a thingie that prints "Hello, Erik?"
